@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_padding">5dp</dimen>
+    <dimen name="_margin">10dp</dimen>
+    <dimen name="submit_padding">15dp</dimen>
+</resources>

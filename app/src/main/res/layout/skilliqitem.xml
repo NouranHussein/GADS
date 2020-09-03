@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="4dp"
+    app:cardUseCompatPadding="true">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    >
+    <ImageView
+        android:layout_width="110dp"
+        android:layout_height="90dp"
+        android:fitsSystemWindows="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/skilliqimg"
+        android:layout_margin="@dimen/_margin"
+        android:id="@+id/skill_badge"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingEnd="@dimen/_padding"
+        android:layout_marginStart="@dimen/_margin"
+        android:paddingStart="@dimen/_padding"
+        >
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="name"
+    android:textSize="16sp"
+    android:textStyle="bold|italic"
+    android:paddingTop="@dimen/_padding"
+    android:paddingEnd="@dimen/_padding"
+    android:textColor="@android:color/secondary_text_light"
+    android:id="@+id/skill_name_tv"
+    />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="score,country"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            android:paddingEnd="@dimen/_padding"
+            android:paddingBottom="@dimen/_padding"
+            android:textColor="@android:color/tab_indicator_text"
+            android:id="@+id/skill_score_tv"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
+</androidx.cardview.widget.CardView>
