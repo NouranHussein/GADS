@@ -1,0 +1,7 @@
+![launching](https://user-images.githubusercontent.com/70723581/92331866-e3190c00-f079-11ea-8381-98d3e0453190.PNG)
+ ![LeaderBoard](https://user-images.githubusercontent.com/70723581/92331780-5706e480-f079-11ea-82ec-1226087e8039.PNG)
+![Skill IQ](https://user-images.githubusercontent.com/70723581/92331882-02b03480-f07a-11ea-8e38-b1d2f19ee589.PNG)
+![Submit](https://user-images.githubusercontent.com/70723581/92331908-2c695b80-f07a-11ea-9410-d9b2091e182f.PNG)
+![Submit first dialog](https://user-images.githubusercontent.com/70723581/92331996-c16c5480-f07a-11ea-89ab-8ba0de1f154b.PNG)
+![Submission is successful](https://user-images.githubusercontent.com/70723581/92331998-c9c48f80-f07a-11ea-9244-1504773775d2.PNG)
+![Submission is not successful](https://user-images.githubusercontent.com/70723581/92332003-d2b56100-f07a-11ea-9352-b90e3fbbf0e2.PNG)
